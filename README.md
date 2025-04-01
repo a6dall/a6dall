@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я a6dall!
 
-<!--
-**a6dall/a6dall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой GitHub профиль.
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Студент, изучающий программирование и разработку ПО.
+- 💻 Интересуюсь веб-разработкой, Python и open-source проектами.
+- 🌱 В настоящее время изучаю Django и React.
+
+## Мои проекты
+
+- [**Проект 1**](https://github.com/a6dall/project1): Краткое описание проекта.
+- [**Проект 2**](https://github.com/a6dall/project2): Краткое описание проекта.
+
+## Связаться со мной
+
+- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/a6dall](https://www.linkedin.com/in/a6dall)
