@@ -8,12 +8,11 @@
 - 💻 Интересуюсь веб-разработкой, Python и open-source проектами.
 - 🌱 В настоящее время изучаю Django и React.
 
-## Мои проекты
+## Проекты
 
-- [**Проект 1**](https://github.com/a6dall/project1): Краткое описание проекта.
-- [**Проект 2**](https://github.com/a6dall/project2): Краткое описание проекта.
+- [Michiko Bot](https://github.com/a6dall/michiko_bot) — Telegram-бот на Python с использованием библиотеки aiogram.
 
-## Связаться со мной
+## Контакты
 
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/a6dall](https://www.linkedin.com/in/a6dall)
+- Telegram: [@a6dall](https://t.me/a6dall)
+- Email: a6dall@mail.ru
