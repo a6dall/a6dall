@@ -3,7 +3,7 @@
 
 # Привет, я a6dall!
 
-Добро пожаловать на мой GitHub профиль. [Скачать]() мое резюме в формате .pdf
+Добро пожаловать на мой GitHub профиль. [Скачать](https://github.com/a6dall/portfolio/blob/main/portfolio_a6dall_ati.pdf?raw=true) мое резюме в формате .pdf
 
 ## Обо мне
 
