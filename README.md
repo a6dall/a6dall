@@ -1,8 +1,3 @@
-<!-- Шапка -->
-<p align="center">
-  <img src="https://github.com/a6dall/a6dall/blob/main/assets/header.png" alt="Header" />
-</p>
-
 <h1 align="center">👋 Привет, я a6dall!</h1>
 <p align="center">Python Developer | Automation | Telegram Bots | API Integration</p>
 
